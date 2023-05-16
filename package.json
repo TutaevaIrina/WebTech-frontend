@@ -1,0 +1,14 @@
+{
+  "name": "webtech-frontend",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Irina Tutaeva",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
